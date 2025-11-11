@@ -73,7 +73,7 @@ export const Hero = () => {
                   LinkedIn
                 </a>
               </Button>
-              <Button 
+              {/* <Button 
                 size="lg" 
                 variant="outline"
                 className="border-primary/50 hover:border-primary hover:bg-surface-hover group"
@@ -83,7 +83,7 @@ export const Hero = () => {
                   <Mail className="mr-2 h-5 w-5 group-hover:scale-110 transition-transform" />
                   Email
                 </a>
-              </Button>
+              </Button> */}
             </div>
           </div>
 
